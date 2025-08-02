@@ -7,34 +7,33 @@ SIM-VENTORY adalah sistem informasi manajemen inventori modern yang dibangun den
 
 ## ✨ Fitur-Fitur Utama
 
-- **Manajemen Produk**: CRUD produk dengan kategori, upload gambar, sistem SKU otomatis, monitoring stok minimum/maksimum
+- **Manajemen Produk**: CRUD produk dengan kategori, upload gambar, monitoring stok minimum/maksimum
 - **Dashboard Analitik**: Statistik real-time, grafik penjualan 7 hari terakhir, distribusi produk per kategori
 - **Sistem Transaksi**: Pembuatan transaksi multi-item, perhitungan otomatis pajak & diskon, multiple payment methods
-- **Manajemen Staff**: Role-based access control (Admin/Staff), profile management dengan foto
-- **Laporan & Export**: Generate laporan PDF, export data ke Excel, filter berdasarkan periode
-- **Alert System**: Notifikasi stok rendah dan monitoring inventory
+- **Manajemen Staff**: Role-based access control (Admin/Staff), profile management
+- **Laporan & Export**: Generate laporan PDF, export data ke Excel, filter
 
 ---
 
 ## 🚀 Teknologi yang Digunakan
 
 ### Framework PHP:
-- **Laravel 10.x** - Framework PHP dengan arsitektur MVC
-- **PHP 8.1+** - Bahasa pemrograman backend
+- **Laravel 10.x**
+- **PHP 8.1+**
 
 ### Framework CSS:
-- **Bootstrap 5.2.3** - Framework CSS untuk responsive design
+- **Bootstrap 5.2.3**
 
 ### Framework/Library JS:
-- **Alpine.js 3.4.2** - Lightweight JavaScript framework untuk interaktivitas
-- **Chart.js** - Library untuk membuat grafik dan visualisasi data
-- **Vite 5.0.0** - Build tool modern untuk asset bundling
+- **Alpine.js 3.4.2**
+- **Chart.js**
+- **Vite 5.0.0**
 
 ### Database & Tools:
-- **MySQL/PostgreSQL** - Database management system
-- **Laravel DomPDF** - PDF generation untuk laporan
-- **Maatwebsite Excel** - Export/import data Excel
-- **Intervention Image** - Image manipulation dan upload
+- **MySQL/PostgreSQL**
+- **Laravel DomPDF**
+- **Maatwebsite Excel**
+- **Intervention Image**
 
 
 <div align="center">
