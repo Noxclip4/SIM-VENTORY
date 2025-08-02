@@ -39,5 +39,10 @@ SIM-VENTORY adalah sistem informasi manajemen inventori modern yang dibangun den
 <div align="center">
 
 **Terima Kasih**
+
+</div>
+<div align="center">
+    
 **NIM C2C023038**
+
 </div>
